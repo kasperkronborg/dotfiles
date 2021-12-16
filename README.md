@@ -14,3 +14,9 @@ There are many like it, but this one is mine.
 ```bash
 > /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+## chezmoi
+
+```bash
+> brew install chezmoi
+```
